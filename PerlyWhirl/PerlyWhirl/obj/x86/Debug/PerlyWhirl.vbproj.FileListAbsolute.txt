@@ -1,0 +1,36 @@
+C:\Users\Gabriel\AppData\Local\Temporary Projects\PerlyWhirl\bin\Debug\PerlyWhirl.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\PerlyWhirl\bin\Debug\PerlyWhirl.pdb
+C:\Users\Gabriel\AppData\Local\Temporary Projects\PerlyWhirl\bin\Debug\PerlyWhirl.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\PerlyWhirl\obj\x86\Debug\PerlyWhirl.Form1.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\PerlyWhirl\obj\x86\Debug\PerlyWhirl.Resources.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\PerlyWhirl\obj\x86\Debug\PerlyWhirl.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\PerlyWhirl\obj\x86\Debug\PerlyWhirl.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\PerlyWhirl\obj\x86\Debug\PerlyWhirl.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\PerlyWhirl\obj\x86\Debug\PerlyWhirl.pdb
+C:\Users\Gabriel\documents\visual studio 2010\Projects\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.exe
+C:\Users\Gabriel\documents\visual studio 2010\Projects\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.xml
+C:\Users\Gabriel\documents\visual studio 2010\Projects\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.pdb
+C:\Users\Gabriel\documents\visual studio 2010\Projects\PerlyWhirl\PerlyWhirl\bin\Debug\PerlyWhirl.exe
+C:\Users\Gabriel\documents\visual studio 2010\Projects\PerlyWhirl\PerlyWhirl\bin\Debug\PerlyWhirl.pdb
+C:\Users\Gabriel\documents\visual studio 2010\Projects\PerlyWhirl\PerlyWhirl\bin\Debug\PerlyWhirl.xml
+C:\Users\Gabriel\documents\visual studio 2010\Projects\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.Form1.resources
+C:\Users\Gabriel\documents\visual studio 2010\Projects\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.Resources.resources
+C:\Users\Gabriel\documents\visual studio 2010\Projects\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.vbproj.GenerateResource.Cache
+G:\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.exe
+G:\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.xml
+G:\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.pdb
+G:\PerlyWhirl\PerlyWhirl\bin\Debug\PerlyWhirl.exe
+G:\PerlyWhirl\PerlyWhirl\bin\Debug\PerlyWhirl.pdb
+G:\PerlyWhirl\PerlyWhirl\bin\Debug\PerlyWhirl.xml
+G:\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.Form1.resources
+G:\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.Resources.resources
+G:\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.vbproj.GenerateResource.Cache
+F:\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.exe
+F:\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.xml
+F:\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.pdb
+F:\PerlyWhirl\PerlyWhirl\bin\Debug\PerlyWhirl.exe
+F:\PerlyWhirl\PerlyWhirl\bin\Debug\PerlyWhirl.pdb
+F:\PerlyWhirl\PerlyWhirl\bin\Debug\PerlyWhirl.xml
+F:\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.Form1.resources
+F:\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.Resources.resources
+F:\PerlyWhirl\PerlyWhirl\obj\x86\Debug\PerlyWhirl.vbproj.GenerateResource.Cache

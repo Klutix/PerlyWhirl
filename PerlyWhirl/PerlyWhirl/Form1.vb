@@ -25,10 +25,8 @@ Public Class Form1
         FileNameTextBox.Text = "PerlScript1.pl"
         If (System.IO.File.Exists(CurDir() & "\" & "Settings.txt")) Then
             Defaultperlpath = My.Computer.FileSystem.ReadAllText(CurDir() & "\" & "Settings.txt")
-
         Else
             ' Defaultperlpath = "cd C:\strawberry\perl\bin "
-
         End If
 
     End Sub
@@ -38,7 +36,6 @@ Public Class Form1
 
     Private Sub Run_Button_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Run_Button.Click
         If (goodSave) Then
-
             Try
                 batproc = System.Diagnostics.Process.Start(BatchPath)
             Catch
@@ -46,8 +43,8 @@ Public Class Form1
             End Try
             'MsgBox("save p" & SavePath)
             'MsgBox(" gen info: " & GeneralBatchinfo)
-
         End If
+        
         If (goodSave = False) Then
             If (System.IO.File.Exists(BatchPath)) Then
                 System.IO.File.Delete(BatchPath)
@@ -57,7 +54,6 @@ Public Class Form1
             'MsgBox(" gen info: " & Defaultperlpath)
             MsgBox(" bat p " & BatchPath)
             MsgBox("save stat: " & goodSave.ToString)
-
 
             batproc = System.Diagnostics.Process.Start(BatchPath)
         End If
@@ -97,8 +93,7 @@ Public Class Form1
                 sb.AppendLine("perl " & SavePath)
                 sb.AppendLine("PAUSE")
                 IO.File.WriteAllText(BatchPath, sb.ToString)
-
-
+                
                 'create perl file 
                 If (IO.File.Exists(SavePath)) Then
                     System.IO.File.Delete(SavePath)
@@ -122,7 +117,6 @@ Public Class Form1
         goodSave = False
         Try
             batproc.Kill()
-
         Catch ex As Exception
 
         End Try
@@ -158,7 +152,6 @@ Public Class Form1
         sb.AppendLine("perl " & SavePath)
         sb.AppendLine("PAUSE")
         IO.File.WriteAllText(BatchPath, sb.ToString)
-
 
         'delete old file and create new one 
         If (IO.File.Exists(SavePath)) Then
